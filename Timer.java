@@ -1,5 +1,3 @@
-package SpeedTyper;
-
 public class Timer {
 
     private long startTime;

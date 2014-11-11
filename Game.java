@@ -1,5 +1,3 @@
-package SpeedTyper;
-
 import java.util.Scanner;
 
 /**

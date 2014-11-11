@@ -1,5 +1,3 @@
-package SpeedTyper;
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.Random;
@@ -14,7 +12,7 @@ import java.io.IOException;
  */
 public class PassageGenerator {
 
-    private final static int PASSAGE_QTY = 8;
+    private final static int PASSAGE_QTY = 3;
     private final static String PASSAGE_SRC = "passages.txt";
 
     private String header;

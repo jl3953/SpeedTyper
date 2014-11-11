@@ -1,5 +1,3 @@
-package SpeedTyper;
-
 /**
  * Plays the typing game.
  *
